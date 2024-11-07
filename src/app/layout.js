@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "El Complejo",
+  title: "Pa' Que Argenis",
 
   icons: {
     icon: "/favicon.png",
